@@ -1,4 +1,4 @@
-# Day 2 — NumPy Basics
+# Day 1— NumPy Basics
 
 ## Objective
 Learn the basics of NumPy for Machine Learning.
