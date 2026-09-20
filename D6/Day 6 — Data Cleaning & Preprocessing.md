@@ -1,4 +1,4 @@
-# Day 6: Data Cleaning and Preprocessing
+# Day 6 : Data Cleaning and Preprocessing
 
 ## Objective
 
