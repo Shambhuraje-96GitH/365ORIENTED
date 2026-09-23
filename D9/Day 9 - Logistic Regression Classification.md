@@ -6,7 +6,7 @@ Build a binary classification model using Logistic Regression.
 # Dataset
 Iris Dataset
 
-## Concepts Learned
+# Concepts Learned
 - Binary Classification
 - Train/Test Split
 - Logistic Regression
