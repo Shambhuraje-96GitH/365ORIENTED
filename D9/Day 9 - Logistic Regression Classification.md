@@ -3,7 +3,7 @@
 # Objective
 Build a binary classification model using Logistic Regression.
 
-## Dataset
+# Dataset
 Iris Dataset
 
 ## Concepts Learned
