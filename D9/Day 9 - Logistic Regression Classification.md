@@ -1,6 +1,6 @@
 # Day 9 - Logistic Regression & Classification
 
-## Objective
+# Objective
 Build a binary classification model using Logistic Regression.
 
 ## Dataset
