@@ -6,7 +6,7 @@
 
 This project demonstrates anomaly detection with the **Isolation Forest** algorithm from scikit-learn. It generates a synthetic two-feature dataset containing normal observations and deliberately injected anomalies, trains an Isolation Forest model, evaluates its predictions, and visualizes the observations flagged as anomalous.
 
-## Learning Objectives
+## Learning Objectives:
 
 - Understand anomaly detection and the difference between normal observations and anomalies.
 - Learn how Isolation Forest identifies observations that are easier to isolate from the rest of the data.
