@@ -39,7 +39,7 @@ The data is split into training and test sets using a stratified split. `Standar
 
 > This is a controlled educational dataset. Its artificial anomaly pattern is simpler than many real-world anomaly-detection problems.
 
-## Technologies Used
+## Technologies Used-
 
 - Python
 - NumPy
