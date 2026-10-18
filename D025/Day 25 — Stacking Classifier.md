@@ -5,7 +5,7 @@ In this task, we build a Stacking Classifier, an ensemble-learning method that c
 The implementation uses the Breast Cancer Wisconsin dataset built into scikit-learn. It trains and evaluates the ensemble, then prints classification metrics and example predictions.
 Important: This is an educational machine-learning exercise, not a medical diagnostic tool. The model's predictions must not be used to make healthcare decisions.
 
-Learning objectives
+Learning objectives:
 By completing this task, you will learn to:
 - Explain stacking and the role of a meta-model.
 - Combine different classification algorithms in one ensemble.
