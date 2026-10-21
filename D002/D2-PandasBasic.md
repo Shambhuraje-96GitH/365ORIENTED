@@ -1,6 +1,6 @@
 # Day 2 — Pandas Basics
 
-## 🎯 Objective
+## 🎯 Objective:
 
 Learn the basics of Pandas for working with structured and tabular data.
 
