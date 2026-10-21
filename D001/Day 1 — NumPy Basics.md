@@ -1,6 +1,6 @@
 Day 1 — NumPy Basics
 
-## Objective
+## Objective-
 Learn the basics of NumPy for Machine Learning.
 
 ## Topics Covered
