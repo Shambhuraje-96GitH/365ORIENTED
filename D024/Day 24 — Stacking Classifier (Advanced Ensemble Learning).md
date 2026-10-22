@@ -2,7 +2,7 @@
 
 **365-Day AIML Engineer GitHub Challenge**
 
-## Overview:
+## Overview
 
 Stacking is an ensemble-learning technique that combines multiple machine-learning models. The predictions produced by the base models become input features for a final model, commonly called the **meta-model**, which learns how to combine those predictions.
 
