@@ -2,7 +2,7 @@
 
 ## 365-Day AIML GitHub Challenge
 
-### Overview
+### Overview:
 
 XGBoost (Extreme Gradient Boosting) is a powerful supervised machine learning algorithm based on gradient-boosted decision trees. It combines multiple decision trees sequentially to improve predictive performance.
 
