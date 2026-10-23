@@ -1,6 +1,6 @@
 # Day 23 — AdaBoost Classification
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 This project implements **AdaBoost (Adaptive Boosting)**, an ensemble machine learning algorithm used for classification tasks. AdaBoost combines multiple weak learners to build a stronger predictive model by giving more attention to incorrectly classified training samples.
 
