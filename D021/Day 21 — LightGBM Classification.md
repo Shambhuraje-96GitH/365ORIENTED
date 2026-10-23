@@ -6,7 +6,7 @@ This project demonstrates **LightGBM (Light Gradient Boosting Machine)** for bin
 
 This project uses the **Breast Cancer Wisconsin dataset** from Scikit-learn to classify tumors as malignant or benign.
 
-## Objectives
+## Objectives:
 
 - Understand the fundamentals of LightGBM classification.
 - Train a LightGBM classifier on a real-world dataset.
