@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Overview
+## 1. Overview:
 
 CatBoost (Categorical Boosting) is a gradient boosting machine learning library developed by Yandex. It is designed to build powerful predictive models, particularly for structured and tabular datasets.
 
