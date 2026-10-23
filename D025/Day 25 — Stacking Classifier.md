@@ -1,4 +1,4 @@
-Day 25 — Stacking Classifier
+Day 25 : Stacking Classifier
 365-Day AIML Engineer & MNC-Oriented GitHub Challenge
 Overview
 In this task, we build a Stacking Classifier, an ensemble-learning method that combines several base machine-learning models and learns how to combine their predictions with a final model called a meta-model.
