@@ -3,7 +3,7 @@
 Day 32: K-Means Clustering
 Project: Customer Segmentation Using K-Means
 
-Skills:
+Skills :
 - Data preprocessing and feature scaling
 - Elbow Method
 - K-Means clustering
