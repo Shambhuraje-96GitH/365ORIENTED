@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Title
+## 📌 Project Title:
 
 **PCA Visualization & Explained Variance Analysis**
 
