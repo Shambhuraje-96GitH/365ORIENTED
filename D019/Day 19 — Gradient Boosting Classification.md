@@ -1,6 +1,6 @@
 # Day 19 — Gradient Boosting Classification
 
-## 1. Overview
+## 1. Overview:
 
 Gradient Boosting Classification is a supervised machine learning technique that combines multiple weak learners, typically decision trees, to build a strong predictive model.
 
