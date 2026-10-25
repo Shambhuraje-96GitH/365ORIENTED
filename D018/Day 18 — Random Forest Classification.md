@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Objective
+## 1. Objective:
 
 The objective of this project is to implement a Random Forest Classification model using Python and Scikit-learn.
 
