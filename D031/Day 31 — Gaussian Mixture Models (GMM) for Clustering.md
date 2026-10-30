@@ -1,6 +1,6 @@
 # Day 31 — Gaussian Mixture Models (GMM) for Clustering
 
-## Overview
+## Overview:
 
 This project demonstrates **Gaussian Mixture Models (GMM)**, a probabilistic unsupervised-learning algorithm for grouping unlabeled observations. The example uses a synthetic customer dataset with two behavior features: annual spend and visits per month.
 
