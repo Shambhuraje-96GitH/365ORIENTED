@@ -1,7 +1,7 @@
 
 # Day 30 — HDBSCAN Clustering
 
-## Overview
+## Overview :
 
 This project implements Hierarchical Density-Based Spatial
 Clustering of Applications with Noise (HDBSCAN), an
