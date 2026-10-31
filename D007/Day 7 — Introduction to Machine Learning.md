@@ -1,6 +1,6 @@
 # Day 7 — Introduction to Machine Learning
 
-## Topic
+## Topic:
 Linear Regression using Scikit-Learn
 
 ## What I Learned
