@@ -1,6 +1,6 @@
 # Day 6 : Data Cleaning and Preprocessing
 
-## Objective
+## Objective:
 
 Learn how to identify and clean common problems
 in real-world datasets using Pandas.
