@@ -1,6 +1,6 @@
 # Day 5 - Pandas Data Analysis
 
-## Topics Learned
+## Topics Learned:
 - Creating DataFrames
 - Exploring datasets
 - Selecting rows and columns
