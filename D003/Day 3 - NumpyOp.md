@@ -1,6 +1,6 @@
 # Day 3 - NumPy Array Operations
 
-## Objective
+## Objective:
 Learn basic NumPy array operations used in Machine Learning and Data Science.
 
 ## Topics Covered
