@@ -1,6 +1,6 @@
 # Day 8 — Logistic Regression
 
-## Objective
+## Objective:
 
 Learn the fundamentals of Logistic Regression and use it to solve a binary classification problem.
 
