@@ -1,6 +1,6 @@
 Day 4 - Pandas Data Analysis
 
-## Objective
+## Objective:
 ...
 
 ## Concepts Learned
