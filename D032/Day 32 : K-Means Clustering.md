@@ -3,7 +3,7 @@
 
 ## Project: Customer Segmentation Using K-Means
 
-### Overview
+### Overview:
 
 This project demonstrates K-Means, an unsupervised machine learning
 algorithm that groups similar data points into clusters.
