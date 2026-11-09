@@ -1,7 +1,7 @@
 
 # Day 34 — FP-Growth Algorithm for Frequent Pattern Mining
 
-## Overview
+## Overview :
 
 This project implements the FP-Growth (Frequent Pattern Growth)
 algorithm to discover frequent itemsets and association rules
