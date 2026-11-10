@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objective
+## 🎯 Objective:
 
 The objective of Day 16 is to understand and implement **Principal Component Analysis (PCA)** for dimensionality reduction.
 
