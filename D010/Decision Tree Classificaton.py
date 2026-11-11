@@ -3,7 +3,7 @@
 # 365 Days GitHub AIML Challenge
 # ============================================
 
-# Import libraries
+# Import libraries:
 import numpy as np
 import matplotlib.pyplot as plt
 
