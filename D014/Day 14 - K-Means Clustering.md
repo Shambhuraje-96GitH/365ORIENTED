@@ -1,6 +1,6 @@
 # Day 14 - K-Means Clustering
 
-## Objective
+## Objective:
 
 Learn and implement K-Means Clustering, an unsupervised machine learning algorithm.
 
