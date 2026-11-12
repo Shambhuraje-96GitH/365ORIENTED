@@ -1,6 +1,6 @@
 # Day 13 — Support Vector Machine (SVM) Classification
 
-## 🎯 Objective
+## 🎯 Objective:
 
 The objective of Day 13 is to understand and implement the **Support Vector Machine (SVM)** classification algorithm using Python and Scikit-learn.
 
