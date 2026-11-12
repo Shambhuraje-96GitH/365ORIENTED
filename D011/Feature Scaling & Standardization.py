@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
 
 # --------------------------------------------------
-# 1. Create Sample Dataset
+# 1. Create Sample Dataset:
 # --------------------------------------------------
 
 data = {
