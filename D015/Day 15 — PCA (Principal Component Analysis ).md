@@ -1,6 +1,6 @@
 # Day 15 — PCA (Principal Component Analysis)
 
-## 📌 Overview
+## 📌 Overview:
 
 Today I learned **Principal Component Analysis (PCA)**, a dimensionality reduction technique used in Machine Learning.
 
