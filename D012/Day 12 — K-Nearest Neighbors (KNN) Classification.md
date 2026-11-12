@@ -1,6 +1,6 @@
 # Day 12 — K-Nearest Neighbors (KNN) Classification
 
-## Objective
+## Objective:
 
 The objective of Day 12 is to understand and implement the **K-Nearest Neighbors (KNN)** classification algorithm using Python and Scikit-learn.
 
