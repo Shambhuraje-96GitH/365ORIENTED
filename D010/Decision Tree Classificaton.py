@@ -1,6 +1,6 @@
 # ============================================
 # DAY 10 - DECISION TREE CLASSIFICATION
-# 365 Days GitHub AIML Challenge
+# 365 Days GitHub AIML Challenge:
 # ============================================
 
 # Import libraries:
