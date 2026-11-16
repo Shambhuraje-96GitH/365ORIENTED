@@ -1,7 +1,7 @@
 
 # Day 35 - ECLAT Algorithm for Frequent Itemset Mining
 
-## Overview
+## Overview:
 
 This project implements the ECLAT (Equivalence Class Transformation) algorithm for discovering frequent itemsets in transactional datasets.
 
