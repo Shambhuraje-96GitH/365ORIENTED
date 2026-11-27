@@ -1,5 +1,5 @@
 
-# Day 45 - Attention Mechanism
+# Day 45 : Attention Mechanism
 
 ## Objective
 To implement the Attention Mechanism using PyTorch.
